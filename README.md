@@ -36,6 +36,6 @@
                     <td>130.59</td>
                 </tr>
             </table>
-            <img src='./support/result.png'>
+            <img src='./support/results.png'>
     <h3>Conclusions</h3>
         <p>Overall,the models do a pretty good job of predicting crypto prices considering that this is only the first itereation of this project. There is still work that needs to be done before this platforn can be deployed into the real world. In terms of next  steps, I will look into cloud computing so that I can work with more granular data and develop a platform that can also transform data and make predictions faster. I also want to gain more domain knowledge so that I have a better sense of the crypto feild.</p>
